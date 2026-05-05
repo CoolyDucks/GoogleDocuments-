@@ -1,5 +1,5 @@
 # What is that?
-- this is an Google docs but word in web
+- this is an Google docs but work in web
 
 
 # how to use?
